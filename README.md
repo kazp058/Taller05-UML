@@ -2,8 +2,27 @@
 
 ## Archivos
 
-- [Codigo](https://github.com/kazp058/Taller05-UML/tree/main/Taller05UML)
-- [Diagramas]() 
+### Codigo
+
+# Codigo
+
+## Clases
+
+- [Actividad sumativa](https://github.com/kazp058/Taller05-UML/blob/main/Taller05UML/src/main/java/com/espol/abstractas/ActividadSumativa.java)
+- [Evaluacion](https://github.com/kazp058/Taller05-UML/blob/main/Taller05UML/src/main/java/com/espol/clases/Evaluacion.java) 
+- [Tarea](https://github.com/kazp058/Taller05-UML/blob/main/Taller05UML/src/main/java/com/espol/clases/Tarea.java)
+
+- [Curso](https://github.com/kazp058/Taller05-UML/blob/main/Taller05UML/src/main/java/com/espol/clases/Curso.java)
+- [Foro](https://github.com/kazp058/Taller05-UML/blob/main/Taller05UML/src/main/java/com/espol/clases/Foro.java)
+- [Incidente](https://github.com/kazp058/Taller05-UML/blob/main/Taller05UML/src/main/java/com/espol/clases/Incidente.java)
+
+- [Usuario](https://github.com/kazp058/Taller05-UML/blob/main/Taller05UML/src/main/java/com/espol/clases/Usuario.java)
+- [Administrador](https://github.com/kazp058/Taller05-UML/blob/main/Taller05UML/src/main/java/com/espol/clases/Administrador.java)
+- [Personal Academico](https://github.com/kazp058/Taller05-UML/blob/main/Taller05UML/src/main/java/com/espol/clases/PersonalAcademico.java)
+- [Estudiante](https://github.com/kazp058/Taller05-UML/blob/main/Taller05UML/src/main/java/com/espol/clases/Estudiante.java)
+- [Profesor](https://github.com/kazp058/Taller05-UML/blob/main/Taller05UML/src/main/java/com/espol/clases/Profesor.java)
+
+### Diagramas
 
 ## Enlaces
 
