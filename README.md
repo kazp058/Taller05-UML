@@ -3,8 +3,8 @@
 ## Solucion
 
 ### Diagramas
-![Diagrama de Reportar problema](https://github.com/kazp058/Taller05-UML/blob/main/Diagramas/diagrama_reportarProblema.png)
-
+![Diagrama se secuencia de Reportar problema](https://github.com/kazp058/Taller05-UML/blob/main/Diagramas/diagrama_reportarProblema.png)
+![Diagrama de secuencia de cargar material educativo](https://github.com/kazp058/Taller05-UML/blob/main/Diagramas/Taller%2005%20UML%20-%20Cargar%20material%20educativo.png)
 ### Codigo
 
 - [Actividad sumativa](https://github.com/kazp058/Taller05-UML/blob/main/Taller05UML/src/main/java/com/espol/abstractas/ActividadSumativa.java)
