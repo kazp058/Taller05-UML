@@ -6,7 +6,7 @@ package com.espol.clases;
  */
 public class PersonalAcademico extends Usuario{
     
-    protected Incidente[] incidentes;
+    //Heredado de la clase padre Usuario: protected Incidente[] incidentes;
     
     public void reportarError(String email, String contenido){
         //Codigo
