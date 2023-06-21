@@ -1,12 +1,11 @@
 # Taller05-UML
 
-## Archivos
+## Solucion
+
+### Diagramas
+
 
 ### Codigo
-
-# Codigo
-
-## Clases
 
 - [Actividad sumativa](https://github.com/kazp058/Taller05-UML/blob/main/Taller05UML/src/main/java/com/espol/abstractas/ActividadSumativa.java)
 - [Evaluacion](https://github.com/kazp058/Taller05-UML/blob/main/Taller05UML/src/main/java/com/espol/clases/Evaluacion.java) 
@@ -22,7 +21,6 @@
 - [Estudiante](https://github.com/kazp058/Taller05-UML/blob/main/Taller05UML/src/main/java/com/espol/clases/Estudiante.java)
 - [Profesor](https://github.com/kazp058/Taller05-UML/blob/main/Taller05UML/src/main/java/com/espol/clases/Profesor.java)
 
-### Diagramas
 
 ## Enlaces
 
