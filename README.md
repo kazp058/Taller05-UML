@@ -3,7 +3,7 @@
 ## Solucion
 
 ### Diagramas
-
+![Diagrama de Reportar problema](https://github.com/kazp058/Taller05-UML/blob/main/Diagramas/diagrama_reportarProblema.png)
 
 ### Codigo
 
